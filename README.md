@@ -1,13 +1,8 @@
 # String Parser
 
-This project has been build and tested on java8 and struts-2.5.10.1
+This project is build and tested on java 8 and struts-2.5.10.1
 
-################# Dependencies ##################
-
-1. java 8
-2. struts-2.5.10.1
-
-################# Building and stating application ##################
+################# Dependencies / Building and starting application ##################
 
 Dependencies jars  from struts should be added into WEB-INF/lib directory.
 1. commons-fileupload-1.3.2.jar
